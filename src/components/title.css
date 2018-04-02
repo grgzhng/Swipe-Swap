@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Chicle|Permanent+Marker');
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    margin-bottom: 0px;
+}
+
+h1:hover {
+    cursor: pointer;
+}
